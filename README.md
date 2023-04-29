@@ -19,5 +19,5 @@ https://olawanlejoel.hashnode.dev/how-to-connect-a-react-dapp-to-metamask-cl3d1k
 
 <br>
 https://giancarlobuomprisco.com/react/connect-wallet-react-component
-- One more good blog for reference with code sandbox
+- One more blog for reference with code sandbox
 
